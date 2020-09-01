@@ -40,7 +40,7 @@
 		<java.version>1.8</java.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-		<!-- eclipse stuff -->
+		<!-- eclipse stuffs -->
 		<m2eclipse.wtp.contextRoot>/</m2eclipse.wtp.contextRoot>
 
 		<!--shopizer version -->
